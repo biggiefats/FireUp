@@ -31,5 +31,6 @@ The secret mode introduces its own game mode, with unique enemy generation.
 
 ## Prerequisties
 - `Python 3.10` or newer
+- PIL via `pip install pillow` or `python -m pip install pillow` (search up alternatives for your OS/distro, if these do not work)
 - Somewhere to run Python code e.g. `IDLE, Vim, VSCode, Pycharm`
 - Patience
