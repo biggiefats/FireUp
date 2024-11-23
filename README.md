@@ -14,6 +14,11 @@ Play this game on the toilet! (Good luck with that one.)
 Also there is a secret gamemode. You can try to figure out where it is by navigating the code.
 The secret mode introduces its own game mode, with unique enemy generation.
 
+## How To Run
+- Use `git clone https://github.com/biggiefats/FireUp` to clone the repository via GIT **OR** copy all the files to your computer
+- Run the `main.py` file
+- Enjoy!
+
 ## Controls
 **Customisable**
 - W: Move up
